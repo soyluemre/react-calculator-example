@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-calculator-example/static/css/main.ab227cfd.css",
+    "main.js": "/react-calculator-example/static/js/main.c7e4ce1e.js",
+    "index.html": "/react-calculator-example/index.html",
+    "main.ab227cfd.css.map": "/react-calculator-example/static/css/main.ab227cfd.css.map",
+    "main.c7e4ce1e.js.map": "/react-calculator-example/static/js/main.c7e4ce1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab227cfd.css",
+    "static/js/main.c7e4ce1e.js"
+  ]
+}
